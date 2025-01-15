@@ -1,7 +1,7 @@
 {
-                          "name": "LingMineToken",
-                          "description": "LingMineToken testnet jetton create from modern script jetton you know? follow @x1agshiza",
-                          "symbol": "Ling",
-                          "decimals": 9,
-                          "image": "https://media.tenor.com/_zWYqfZdneIAAAAe/shocked-face-shocked-meme.png"
-                       };
+"name": "LingMineToken",
+"description": "LingMineToken testnet jetton create from modern script jetton you know? follow @x1agshiza",
+"symbol": "Ling",
+"decimals": 9,
+"image": "https://media.tenor.com/_zWYqfZdneIAAAAe/shocked-face-shocked-meme.png"
+}
