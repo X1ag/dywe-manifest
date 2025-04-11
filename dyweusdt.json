@@ -1,7 +1,7 @@
 {
-        "name": "Dywe USDT",
-        "description": "USDT for Dywe",
-        "symbol": "dUSDT",
+        "name": "Dywe Liquidity Provider Token",
+        "description": "LP token from Dywe Liquidity Pool",
+        "symbol": "DLP",
         "decimals": 6,
         "image": "https://github.com/X1ag/dywe-manifest/blob/main/mon.png?raw=true"
     }
