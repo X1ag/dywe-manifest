@@ -1,0 +1,7 @@
+{
+        "name": "Dywe USDT",
+        "description": "USDT for Dywe",
+        "symbol": "dUSDT",
+        "decimals": 6,
+        "image": "https://github.com/X1ag/dywe-manifest/blob/main/mon.png?raw=true"
+    }
