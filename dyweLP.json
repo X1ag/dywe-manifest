@@ -1,6 +1,6 @@
 {
         "name": "Dywe Liquidity Provider Token",
-        "description": "LP token for @dywetrading",
+        "description": "Dywe LP token for @dywetrading",
         "symbol": "DLP",
         "decimals": 9,
         "image": "https://github.com/X1ag/dywe-manifest/blob/main/mon.png?raw=true"
