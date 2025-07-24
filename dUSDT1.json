@@ -2,6 +2,6 @@
 "name": "Dywe USDT",
 "description": "dUSDT stablecoin for @dywetrading",
 "symbol": "dUSDT",
-"decimals": 6,
+"decimals": 9,
 "image": "https://github.com/X1ag/dywe-manifest/blob/main/dywe-usdt.png?raw=true"
 }
