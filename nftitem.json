@@ -1,0 +1,16 @@
+{
+   "name": "Pavel 1",
+   "description": "Confused Pavel",
+   "image": "https://github.com/X1ag/dywe-manifest/blob/main/pavelconfused.jpg?raw=true",
+   "content_url": "https://ton.org/_next/static/media/dimond_1_VP9.29bcaf8e.webm",
+   "attributes": [
+     {
+      "trait_type": "Pavel",
+      "value": "Confused"
+    },
+    {
+      "trait_type": "Age",
+      "value": "17"
+    }
+   ]
+}
